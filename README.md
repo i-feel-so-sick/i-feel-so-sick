@@ -1,4 +1,7 @@
 ### <h1 align="center">Welcome</h1>
+<p align="center">
+  <b>I'm a developer blending low-level hardware programming with Machine Learning.</b>
+</p>
 
 ### 🇰 Kaggle profile:
 <p align="left">
