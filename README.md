@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-### 📣 My hobbies and entertainment:
-* 🏀 I am interested in football and basketball.
-* ⌨️ I have touch typing skills.
-* 👨‍💻 I study and develop in the field of programming.
-
 ### 🇰 Kaggle profile:
 <p align="left">
   <a href="https://www.kaggle.com/ifeelfofick">
@@ -12,7 +7,11 @@
   </a>
 </p>
 
+---
+
 ## ⚙️ My skills:
+
+---
 
 #### 💻 Use in projects:
 <p align="left">
@@ -32,3 +31,10 @@
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,kafka" />
   </a>
 </p>
+
+---
+
+### 📣 My hobbies:
+* 📚 I am interested in philosophy and read relevant literature
+* 🎵 I have experience in music production
+* 📷 I enjoy taking photographs
