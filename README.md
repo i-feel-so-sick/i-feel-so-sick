@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 ### 🇰 Kaggle profile:
 <p align="left">
@@ -9,9 +9,9 @@
 
 ---
 
-### ⚙️ My skills:
+## ⚙️ My skills:
 
-#### 💻 Use in projects:
+### 💻 Use in projects:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,vscode,git,py,c,cpp" />
@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" alt="Matplotlib" />
 </p>
 
-#### 🌱 Сurrently studying:
+### 🌱 Сurrently studying:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,kafka" />
