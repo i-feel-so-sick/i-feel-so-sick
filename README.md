@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-About me:
-
 ### 📣 My hobbies and entertainment:
 * 🏀 I am interested in football and basketball.
 * ⌨️ I have touch typing skills.
@@ -14,9 +12,9 @@ About me:
   </a>
 </p>
 
-⚡ My skills:
+## ⚙️ My skills:
 
-#### Use in projects:
+#### 💻 Use in projects:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,vscode,git,py,c,cpp" />
@@ -28,7 +26,7 @@ About me:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" alt="Matplotlib" />
 </p>
 
-#### Сurrently studying:
+#### 🌱 Сurrently studying:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,kafka" />
