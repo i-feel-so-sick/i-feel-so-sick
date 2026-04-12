@@ -1,5 +1,3 @@
-### <h1 align="center">Hello Everybody 🙂</h1>
-
 ### 🇰 Kaggle profile:
 <p align="left">
   <a href="https://www.kaggle.com/ifeelfofick">
