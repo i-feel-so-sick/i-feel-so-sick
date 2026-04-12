@@ -1,6 +1,4 @@
-### <h1 align="center">Hi there 👋</h1>
-
----
+### <h1 align="center">Hello Everybody 🙂</h1>
 
 ### 🇰 Kaggle profile:
 <p align="left">
