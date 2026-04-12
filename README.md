@@ -9,9 +9,7 @@
 
 ---
 
-## ⚙️ My skills:
-
----
+### ⚙️ My skills:
 
 #### 💻 Use in projects:
 <p align="left">
@@ -34,7 +32,7 @@
 
 ---
 
-### 📣 My hobbies:
+### ☕ My hobbies:
 * 📚 I am interested in philosophy and read relevant literature
 * 🎵 I have experience in music production
 * 📷 I enjoy taking photographs
