@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+### <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kaggle" />
+  </a>
+</p> Kaggle profile:
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]([https://www.kaggle.com/твой_ник](https://www.kaggle.com/ifeelfofick))
 <!--
 **i-feel-so-sick/i-feel-so-sick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
