@@ -9,8 +9,8 @@ About me:
 
 ### 🇰 Kaggle profile:
 <p align="left">
-  <a href="https://www.kaggle.com/ifeelfofick" target="_blank">
-    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="48" alt="Kaggle" />
+  <a href="https://www.kaggle.com/ifeelfofick">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="48" alt="Kaggle" />
   </a>
 </p>
 
