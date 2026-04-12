@@ -15,12 +15,17 @@ About me:
 #### Use in projects:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,git,py,c,cpp,cmake,obsidian" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,git,py,c,cpp" />
   </a>
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Assembler-222222?style=for-the-badge&logoColor=white" alt="Assembler" />
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 </p>
 
 #### Сurrently studying:
