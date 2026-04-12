@@ -1,19 +1,27 @@
 ## Hi there 👋
 
+About me:
+
+### 📣 My hobbies and entertainment:
+* 🏀 I am interested in football and basketball.
+* ⌨️ I have touch typing skills.
+* 👨‍💻 I study and develop in the field of programming.
 
 ### 🇰 Kaggle profile:
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ifeelfofick)
-<!--
-**i-feel-so-sick/i-feel-so-sick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+⚡ My skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Use in projects:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp," />
+  </a>
+</p>
+
+#### Сurrently studying:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scilit-learn,keras" />
+  </a>
+</p>
