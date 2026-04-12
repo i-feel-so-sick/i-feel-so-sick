@@ -15,13 +15,13 @@ About me:
 #### Use in projects:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp," />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,stm32,cmake,nasm,bash,linux,vscode,git" />
   </a>
 </p>
 
 #### Сurrently studying:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scilit-learn,keras" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,matlab" />
   </a>
 </p>
