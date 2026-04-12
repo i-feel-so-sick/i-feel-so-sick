@@ -8,7 +8,11 @@ About me:
 * 👨‍💻 I study and develop in the field of programming.
 
 ### 🇰 Kaggle profile:
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ifeelfofick)
+<p align="left">
+  <a href="[https://www.kaggle.com/твой_ник](https://www.kaggle.com/ifeelfofick)" target="_blank">
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="48" alt="Kaggle" />
+  </a>
+</p>
 
 ⚡ My skills:
 
