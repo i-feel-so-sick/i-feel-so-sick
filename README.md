@@ -38,4 +38,6 @@
 ### ☕ My hobbies:
 * 📚 I am interested in philosophy and read relevant literature
 * 🎵 I have experience in music production
+* 🎨 I paint traditional-style landscapes on a graphics tablet
 * 📷 I enjoy taking photographs
+* 🧗‍♂️ I combine bouldering and chess
