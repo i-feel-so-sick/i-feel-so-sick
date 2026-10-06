@@ -3,13 +3,6 @@
   <b>I'm a developer blending low-level hardware programming with Machine Learning.</b>
 </p>
 
-### 🇰 Kaggle profile:
-<p align="left">
-  <a href="https://www.kaggle.com/ifeelfofick">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="48" alt="Kaggle" />
-  </a>
-</p>
-
 ---
 
 ## ⚙️ My skills:
@@ -37,7 +30,4 @@
 
 ### ☕ My hobbies:
 * 📚 I am interested in philosophy and read relevant literature
-* 🎵 I have experience in music production
-* 🎨 I paint traditional-style landscapes on a graphics tablet
-* 📷 I enjoy taking photographs
-* 🧗‍♂️ I combine bouldering and chess
+* 🧗‍♂️ I play chess
